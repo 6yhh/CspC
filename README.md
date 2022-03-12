@@ -10,6 +10,9 @@
 1 Fork仓库:这个太简单了，就不讲了(主要是懒
 
 2 设置secrets
+# THREAD
+# URL
+# workflow_dispatch:
 
 具体设置方法已放在图片上
 
